@@ -1,4 +1,4 @@
-# ToDo List App
+# TaskTracker Todo List App
 
 ## 📄 Description
 The **ToDo List App** is a simple task management application that helps users organize their daily tasks. You can add, edit, and delete tasks easily. The app also features a progress indicator for each task, so you can see how much of the task is completed.
