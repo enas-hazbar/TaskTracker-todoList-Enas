@@ -19,7 +19,7 @@ The **ToDo List App** is a simple task management application that helps users o
 ## 🚀 How to Run the Project
 
 1. **Clone the repository:**
-   git clone https://github.com/enas-hazbar/todo-list-app.git
+   git clone [https://github.com/enas-hazbar/todo-list-app.git](https://github.com/enas-hazbar/TaskTracker-todoList-Enas.git)
 
 2. **Install the dependencies:**
     npm install
