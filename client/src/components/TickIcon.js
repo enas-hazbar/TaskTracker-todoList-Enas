@@ -14,7 +14,7 @@ const TickIcon = ({ taskId, progress }) => {
     }
   }, [progress, taskId]);
 
-  // Set the color based on completion status (green if completed, red if not)
+  // Set the color based on completion status (green if completed, red if not!)
   const iconColor = isCompleted ? 'rgb(141, 181, 145)' : 'rgb(255, 99, 71)';
 
   return (
