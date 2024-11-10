@@ -38,7 +38,7 @@ The **ToDo List App** is a simple task management application that helps users o
 - You need to create .env files in both the client and server directories to store the environment variables.
 
 - **In the server directory, create a .env file with the following content:**
- - <username> <password> <host> <port>
+ - <username> :<password> @ <host> : <port>
 - **In the client directory, create a .env file with the following content:**
 
 - REACT_APP_SERVERURL=http://localhost:8000
