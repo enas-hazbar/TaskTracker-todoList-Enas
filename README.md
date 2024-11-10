@@ -9,6 +9,8 @@ The **ToDo List App** is a simple task management application that helps users o
 - **Delete Tasks:** Users can remove tasks they no longer need.
 - **Progress Indicator:** Shows the progress of each task with a bar.
 - **Task Status:** Automatically turns the status indicator green when the task progress reaches 100%.
+- **User Authentication:** Users can sign up, log in, and log out securely.
+
 
 ## 🛠 Technologies Used
 - **Frontend:** React (JavaScript)
